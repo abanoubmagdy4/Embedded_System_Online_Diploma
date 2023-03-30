@@ -31,5 +31,8 @@ int main() {
         } 
      
     } 
+        if(i == n){
+        printf("your number not found , sorry !!!");
+        }
     return 0 ;
 }
