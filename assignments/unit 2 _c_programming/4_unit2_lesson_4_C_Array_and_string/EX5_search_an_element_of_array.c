@@ -1,3 +1,12 @@
+/*
+Mastering Embedded System - Online Diploma
+Learn In Depth -- by eng keroles shenouda
+        assignments - Home work 3
+    4_unit2_lesson_4_C_Array_and_string
+    EX5_search_an_element_of_array
+    author : Abanoub Magdy Nessiem
+ */
+
 #include <stdio.h>
 int main() {
     int i , n=5,e=25,l=5  ;
